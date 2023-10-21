@@ -291,7 +291,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -231}
+  m_AnchoredPosition: {x: 0, y: -554}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &19019695
@@ -1004,7 +1004,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7977648384491358899, guid: eadd66caff7ec304bbb353649189b23f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -40.36
+      value: -53.23
       objectReference: {fileID: 0}
     - target: {fileID: 7977648384491358899, guid: eadd66caff7ec304bbb353649189b23f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1829,7 +1829,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 781220418537851315, guid: 5dbedded6cfb22d46a1341ee60bd0b05, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.4
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 781220418537851315, guid: 5dbedded6cfb22d46a1341ee60bd0b05, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1837,7 +1837,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 781220418537851315, guid: 5dbedded6cfb22d46a1341ee60bd0b05, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -42.2
+      value: -30.54
       objectReference: {fileID: 0}
     - target: {fileID: 781220418537851315, guid: 5dbedded6cfb22d46a1341ee60bd0b05, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1911,7 +1911,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -213}
+  m_AnchoredPosition: {x: 0, y: -540}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1148749267
@@ -2033,7 +2033,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2912944841631831862, guid: ec7e29696c782cd4cb5ffadcd57bed34, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -27.1
+      value: -29.62
       objectReference: {fileID: 0}
     - target: {fileID: 2912944841631831862, guid: ec7e29696c782cd4cb5ffadcd57bed34, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2526,9 +2526,9 @@ RectTransform:
   m_Father: {fileID: 1080823556}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -712, y: 60}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 196, y: 0}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1430511036
@@ -2994,7 +2994,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 176, y: -338}
+  m_AnchoredPosition: {x: 168, y: -283}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1665652944
